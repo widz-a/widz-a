@@ -11,18 +11,14 @@
 
 
 ## Programming Languages
-<img src = './images/java.svg' width='30'/>
-<img src = './images/js.svg' width='30'/>
+<img src = './images/java.svg' width='30'/> <img src = './images/js.svg' width='30'/>
 
-<img src = './images/cpp.svg' width='30'/>
-<img src = './images/kotlin.svg' width='30'/>
+<img src = './images/cpp.svg' width='30'/> <img src = './images/kotlin.svg' width='30'/>
 
 > [html](https://stackoverflow.com/questions/145176/is-html-considered-a-programming-language) and [css](https://softwareengineering.stackexchange.com/questions/129141/is-css-a-programming-language) arent programming languages
 
  ## Technologies I Use
-<img src = './images/git.svg' width='30'/>
-<img src = './images/nodejs.svg' width='33'/> 
-<img src = './images/spigot.png' width='33'/> 
+<img src = './images/git.svg' width='30'/> <img src = './images/nodejs.svg' width='33'/> <img src = './images/spigot.png' width='33'/> 
 
 <img src = './images/fabric.png' width='33'>
  
