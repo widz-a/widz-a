@@ -31,7 +31,7 @@ class WhoAmI {
         this.hobbies = [
             "Coding",
             "Playing video games",
-            "Rearrange my room at 3am for no reasons at all"
+            "Rearranging my room at 3am for no reasons at all"
         ]
     }
 
