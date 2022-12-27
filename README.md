@@ -47,6 +47,7 @@ public class Withicality {
 
 ## My Github Stats
 ![my github stats](https://github-readme-stats.vercel.app/api?username=Withicality&show_icons=true&hide=[%22issues%22]&theme=dracula)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=withicality&style=flat-square)](https://www.github.com/Withicality)
 ![Followers](https://img.shields.io/github/followers/withicality?logo=github&style=flat-square)
 
