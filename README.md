@@ -6,17 +6,10 @@
 
 
 ## Programming Languages
-<img src = './images/java.svg' width='30'/>
-<img src = './images/js.svg' width='30'/>
-<img src = './images/cpp.svg' width='30'/>
-<img src = './images/ts.svg' width='30'/>
+<img src = './images/java.svg' width='30'/> <img src = './images/js.svg' width='30'/> <img src = './images/cpp.svg' width='30'/> <img src = './images/ts.svg' width='30'/>
 
  ## Technologies I Use
-<img src = './images/git.svg' width='30'/>
-<img src = './images/nodejs.svg' width='30'/>
-<img src = './images/spigot.png' width='30'/>
-<img src = './images/fabric.png' width='30'>
-<img src = './images/djs.svg' width='30'>
+<img src = './images/git.svg' width='30'/> <img src = './images/nodejs.svg' width='30'/> <img src = './images/spigot.png' width='30'/> <img src = './images/fabric.png' width='30'> <img src = './images/djs.svg' width='30'>
 
  ## Who am I?
 ```java
