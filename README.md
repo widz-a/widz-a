@@ -1,4 +1,4 @@
- <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, welcome to my basement</h2>
+ <h2>Hi there, welcome to my basement <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h2> 
 
 [![Gmail Badge](https://img.shields.io/badge/-itswithermc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itswithermc@gmail.com)](mailto:itswithermc@gmail.com)
 [![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UClgNpRIJN2xnMO7d4usz2YA?label=Youtube&logo=Youtube&logoColor=red&style=flat-square)](https://www.youtube.com/Withicality)
