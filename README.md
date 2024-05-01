@@ -1,8 +1,8 @@
  <h2>Hi there, welcome to my basement <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h2> 
 
 [![Gmail Badge](https://img.shields.io/badge/-itswithermc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itswithermc@gmail.com)](mailto:itswithermc@gmail.com)
-[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UClgNpRIJN2xnMO7d4usz2YA?label=Youtube&logo=Youtube&logoColor=red&style=flat-square)](https://www.youtube.com/Withicality)
-[![Twitter](https://img.shields.io/twitter/follow/withicality?label=Twitter&logo=Twitter&style=flat-square)](https://www.twitter.com/Withicality)
+[![Youtube Channel](https://img.shields.io/youtube/channel/subscribers/UClgNpRIJN2xnMO7d4usz2YA?label=Youtube&logo=Youtube&logoColor=red&style=flat-square)](https://www.youtube.com/@widz_a_)
+[![Twitter](https://img.shields.io/twitter/follow/widz_a_?label=Twitter&logo=Twitter&style=flat-square)](https://www.twitter.com/widz_a_)
 
 
 ## Programming Languages
@@ -14,13 +14,13 @@
  ## Who am I?
 ```kt
 //I have been coding more in Kotlin recently
-package con.github.withicality
+package con.github.widza
 
 import java.time.LocalDate
 import java.time.Period
 
 object WhoAmI {
-    const val USER = "Withicality"
+    const val USERNAME = "widz_a_"
     const val NATIONALITY = "Vietnamese"
 
     val BIRTHDAY = LocalDate.of(2006, 11, 29)
@@ -39,10 +39,10 @@ object WhoAmI {
  * Graduate Highschool
 
 ## My Github Stats
-![my github stats](https://github-readme-stats.vercel.app/api?username=Withicality&show_icons=true&hide=[%22issues%22]&theme=dracula)
+![my github stats](https://github-readme-stats.vercel.app/api?username=widz-a&show_icons=true&hide=[%22issues%22]&theme=dracula)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=withicality&style=flat-square)](https://www.github.com/Withicality)
-![Followers](https://img.shields.io/github/followers/withicality?logo=github&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=widz-a&style=flat-square)](https://www.github.com/widz-a)
+![Followers](https://img.shields.io/github/followers/widz-a?logo=github&style=flat-square)
 
 ## Other Stuff
   - This profile is based on [MarikIshtar007](https://github.com/MarikIshtar007/MarikIshtar007/)
